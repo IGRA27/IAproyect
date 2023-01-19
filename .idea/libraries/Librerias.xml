@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Librerias/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Librerias/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Librerias/Base64.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Librerias" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Librerias" recursive="false" />
+  </library>
+</component>
